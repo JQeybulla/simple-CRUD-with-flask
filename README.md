@@ -1,0 +1,1 @@
+This is a very simle rest api with all CRUD functionalities, written in flask framework.
